@@ -34,7 +34,7 @@ Interested in going full Ether? Reach out to purchase the **paid version**.
 
 We're all about community. Parts of Ether are shared freely for devs and curious minds:
 
-> 📂 **[Click here to access open-source components](#)**  
+> 📂 **[Click here to access open-source components](https://github.com/KonstanceSRC/EtherVRC/tree/main/Main%20Source)**  
 *(Replace `#` with your actual GitHub or download link)*
 
 Fork it, learn from it, or contribute — it's all love.
