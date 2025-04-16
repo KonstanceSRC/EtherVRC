@@ -1,54 +1,42 @@
-# Ether: VRChat Optimization Tool
+ 💜 Ether VRC Tool
 
-## Overview
-Ether is a lightweight VRChat optimization tool that leverages file deletion and optimization routines to help your game run faster and smoother. With a simple batch file and a Python script, Ether makes it easy to clean up unnecessary files and fine-tune VRChat settings to boost performance.
+**Ether VRC Tool** is a sleek, purple-powered optimization utility built for VRChat. It brings performance-enhancing features right to your fingertips with a beautiful in-game menu and a focus on smooth gameplay.
 
-## Features
-- **File Cleanup**: Automatically identifies and deletes redundant files to free up disk space.
-- **Performance Tuning**: Adjusts VRChat settings for a more responsive and enjoyable gaming experience.
-- **Easy Execution**: Simply run the provided batch file and then execute `ether.py` to start optimizing.
-- **Customizable Options**: Choose the optimization settings that best suit your needs.
+> 🎮✨ Optimize your world — the *Ether* way.
 
-## Requirements
-- **Python**: Must be installed and added to your system PATH.
-- **Operating System**: Primarily designed for Windows.
-- **VRChat**: Ensure VRChat is installed on your computer.
+---
 
-## Installation & Usage
+## 🟣 Features
 
-1. **Download Ether**:
-   - Clone or download the Ether repository from GitHub.
+- 🎛️ Stylish in-game optimization **menu**
+- ⚙️ Real-time **performance tuning**
+- 🚀 Boosts **FPS & stability**
+- 💼 Clean and intuitive **UI/UX**
+- 🪶 Lightweight & fast
+- 🎧 Fully VRChat-compatible
 
-2. **Prepare Python**:
-   - Verify that Python is installed on your system and added to your PATH.
+---
 
-3. **Run the Batch File**:
-   - Locate the `.bat` file in the Ether directory.
-   - Double-click the batch file to initiate the setup process.
+## 💰 Premium Access
 
-4. **Launch Ether**:
-   - After running the batch file, execute the `ether.py` file using Python.
-   - Follow the on-screen instructions to select your desired optimization settings.
+The full version of **Ether VRC Tool** unlocks the *ultimate optimization experience*:
 
-5. **Enjoy Optimized Performance**:
-   - Allow Ether to perform its cleanup and optimization routines.
-   - Launch VRChat to experience improved performance.
+- 💎 Complete optimization toolkit  
+- 🛡️ Priority support  
+- ⏩ Early feature access  
+- 🔒 Lifetime updates
 
-## Backup and Safety
-- **Backup Your Files**: Always back up your VRChat configurations and important files before running any optimization.
-- **Restore Option**: In case of any issues, Ether provides a backup restoration option. Backups are stored in the `backup/` directory.
+Interested in going full Ether? Reach out to purchase the **paid version**.
 
-## Contributing
-Contributions to Ether are welcome! If you'd like to improve the tool:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
+---
 
-## License
-Ether is distributed under the [MIT License](LICENSE).
+## 💜 Open Source Goodies
 
-## Contact
-For support, suggestions, or bug reports, please open an issue in our GitHub repository or contact us at [support@example.com](mailto:support@example.com).
+We're all about community. Parts of Ether are shared freely for devs and curious minds:
 
-## Disclaimer
-Use Ether at your own risk. The developers are not responsible for any data loss or issues that may occur. Always ensure you have an up-to-date backup before proceeding with any optimizations.
+> 📂 **[Click here to access open-source components](#)**  
+*(Replace `#` with your actual GitHub or download link)*
+
+Fork it, learn from it, or contribute — it's all love.
+
+---
